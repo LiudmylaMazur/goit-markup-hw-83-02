@@ -71,3 +71,16 @@ ul {
 .paragraf-footer {
   color: #e7e9fc;
 }
+/*-------button-portfolio----*/
+.button-portfolio {
+  background-color: #f4f4fd;
+  color: #4d5ae5;
+}
+.button-portfolio:hover {
+  background-color: #404bbf;
+  color: #ffffff;
+  cursor: pointer;
+}
+/*-----------portfolio-card----*/
+.portfolio-card {
+}
