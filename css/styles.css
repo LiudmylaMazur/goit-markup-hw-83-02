@@ -4,3 +4,23 @@ body {
 ul {
   list-style-type: none;
 }
+/* -------------header------------ */
+.header {
+}
+.header-logo {
+  color: #4d5ae5;
+}
+.header-logo-studio {
+  color: #2e2f42;
+}
+.header-list {
+}
+.header-link {
+  color: #2e2f42;
+}
+.header-link-mail {
+  color: #434455;
+}
+.header-link-tel {
+  color: #434455;
+}
