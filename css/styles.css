@@ -26,13 +26,48 @@ ul {
 }
 /*-----------------main-----------*/
 .section-main {
+  background-color: #2e2f42;
+}
+.caption-one {
+  color: #ffffff;
+}
+.button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  width: 169px;
+  height: 56px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #404bbf;
 }
 /*---------------section-first----*/
 .section-first {
 }
+.caption-two {
+  color: #2e2f42;
+}
+.caption-three {
+  color: #2e2f42;
+}
+.paragraf {
+  color: #434455;
+}
 /*------section-what----*/
 .section-what {
 }
+/*-----------section-our----*/
+.section-our {
+  background-color: #f4f4fd;
+}
+
 /*------section-footer-----*/
 .section-footer {
+  background-color: #2e2f42;
+}
+.header-logo-footer {
+  color: #f4f4fd;
+}
+.paragraf-footer {
+  color: #e7e9fc;
 }
