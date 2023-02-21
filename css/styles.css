@@ -38,7 +38,8 @@ ul {
   height: 56px;
   cursor: pointer;
 }
-.button:hover {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
 }
 /*---------------section-first----*/
@@ -76,7 +77,8 @@ ul {
   background-color: #f4f4fd;
   color: #4d5ae5;
 }
-.button-portfolio:hover {
+.button-portfolio:hover,
+.button-portfolio:focus {
   background-color: #404bbf;
   color: #ffffff;
   cursor: pointer;
