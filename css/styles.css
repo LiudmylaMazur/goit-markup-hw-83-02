@@ -33,11 +33,23 @@ ul {
 .header-link {
   color: var(--color-navy-blue);
 }
+.header-link:hover,
+.header-link:focus {
+  color: var(--color-ocean);
+}
 .header-link-mail {
-  color: var(--color-slate: );
+  color: var(--color-slate);
+}
+.header-link-mail:hover,
+.header-link-mail:focus {
+  color: var(--color-ocean);
 }
 .header-link-tel {
-  color: var(--color-slate: );
+  color: var(--color-slate);
+}
+.header-link-tel:hover,
+.header-link-tel:focus {
+  color: var(--color-ocean);
 }
 /*-----------------main-----------*/
 .section-main {
