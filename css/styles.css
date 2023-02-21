@@ -19,6 +19,9 @@ body {
 ul {
   list-style-type: none;
 }
+a {
+  text-decoration: none;
+}
 /* -------------header------------ */
 .header {
 }
@@ -79,7 +82,7 @@ ul {
   color: var(--color-navy-blue);
 }
 .paragraf {
-  color: var(--color-slate: );
+  color: var(--color-slate);
 }
 /*------section-what----*/
 .section-what {
