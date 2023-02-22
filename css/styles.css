@@ -27,6 +27,14 @@ a {
 }
 .header-logo {
   color: var(--color-iris);
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.33;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 .header-logo-studio {
   color: var(--color-navy-blue);
@@ -35,6 +43,10 @@ a {
 }
 .header-link {
   color: var(--color-navy-blue);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .header-link:hover,
 .header-link:focus {
@@ -42,6 +54,10 @@ a {
 }
 .header-link-mail {
   color: var(--color-slate);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .header-link-mail:hover,
 .header-link-mail:focus {
@@ -49,6 +65,10 @@ a {
 }
 .header-link-tel {
   color: var(--color-slate);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .header-link-tel:hover,
 .header-link-tel:focus {
@@ -60,12 +80,21 @@ a {
 }
 .caption-one {
   color: var(--color-width);
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
 .button {
   background-color: var(--color-iris);
   color: var(--color-width);
   width: 169px;
   height: 56px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 .button:hover,
@@ -73,6 +102,18 @@ a {
   background-color: var(--color-ocean);
 }
 /*---------------section-first----*/
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
 .section-first {
 }
 .caption-two {
