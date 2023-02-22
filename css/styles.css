@@ -118,12 +118,26 @@ a {
 }
 .caption-two {
   color: var(--color-navy-blue);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 .caption-three {
   color: var(--color-navy-blue);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .paragraf {
   color: var(--color-slate);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 /*------section-what----*/
 .section-what {
@@ -139,14 +153,29 @@ a {
 }
 .header-logo-footer {
   color: var(--color-cloud);
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.16;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 .paragraf-footer {
   color: var(--color-corn-flower);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 /*-------button-portfolio----*/
 .button-portfolio {
   background-color: var(--color-cloud);
   color: var(--color-iris);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.04em;
 }
 .button-portfolio:hover,
 .button-portfolio:focus {
